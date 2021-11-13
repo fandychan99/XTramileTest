@@ -40,12 +40,12 @@ namespace XTramileTest.Controllers
             var result = new WeatherMappingDto
             {
                 Location = hasil.name + " ( " + hasil.coord.lat + " , " + hasil.coord.lon + " )",
-                Time = hasil.TimeZone,
-                Wind = String.Format("Speed : {0} m/s , Direction : {1} ", hasil.speed, hasil.deg),
+                Time = hasil.TimeZone.ToString(),
+                Wind = String.Format("Speed : {0} m/s , Direction : {1} ", hasil.Wind.speed, hasil.Wind.deg),
                 Visibility = hasil.Visibility + " %",
-                SkyCondition = hasil.weather.Main ,
-                TemperatureC = hasil.TempCelcius.Main + " C", 
-                TemperatureF = hasil.TemperatureF + " F",
+                SkyCondition = hasil.weather[0].Main.ToString(),
+                TemperatureC = hasil.Main.Temp.ToString() + " C", 
+                TemperatureF = hasil.TempCelcius.Temp.ToString() + " F",
                 RelativeHumidity = hasil.Main.humidity + " %",
                 Pressure = hasil.Main.Pressure + " hPa"
             };

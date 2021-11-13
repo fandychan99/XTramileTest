@@ -24,10 +24,10 @@ namespace XTramileTest.Dto
             {
                 var a = new Temperature
                 {
-                    Temp_max = Main.Temp_max - 32,
-                    Temp = Main.Temp,
-                    Temp_min = Main.Temp_min,
-                    Feels_like = Main.Feels_like
+                    Temp_max = (Main.Temp_max - 32) * 5 / 9,
+                    Temp = (Main.Temp - 32) * 5 / 9,
+                    Temp_min = (Main.Temp_min - 32) * 5 / 9,
+                    Feels_like = (Main.Feels_like - 32) * 5 / 9
                 };
 
                 return a;

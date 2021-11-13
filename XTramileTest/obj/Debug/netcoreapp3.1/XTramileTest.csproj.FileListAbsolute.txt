@@ -41,3 +41,45 @@ D:\a\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\_js.csht
 D:\a\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.csproj.AssemblyReference.cache
 D:\a\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\_AjaxCiti.cshtml.g.cs
 D:\a\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\_AjaxIsi.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.AssemblyInfoInputs.cache
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.AssemblyInfo.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.csproj.CoreCompileInputs.cache
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.RazorAssemblyInfo.cache
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.RazorAssemblyInfo.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.dll
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.pdb
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\staticwebassets\XTramileTest.StaticWebAssets.Manifest.cache
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\staticwebassets\XTramileTest.StaticWebAssets.xml
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\scopedcss\bundle\XTramileTest.styles.css
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.TagHelpers.input.cache
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.TagHelpers.output.cache
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.RazorCoreGenerate.cache
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\_AjaxCiti.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\_AjaxIsi.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Home\_js.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_style.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.RazorTargetAssemblyInfo.cache
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.RazorTargetAssemblyInfo.cs
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\XTramileTest.exe
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\XTramileTest.deps.json
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\XTramileTest.runtimeconfig.json
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\XTramileTest.runtimeconfig.dev.json
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\XTramileTest.dll
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\XTramileTest.pdb
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\XTramileTest.Views.dll
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\XTramileTest.Views.pdb
+D:\Proyek Github\new\XTramileTest\XTramileTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.Views.pdb
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.csproj.CopyComplete
+D:\Proyek Github\new\XTramileTest\XTramileTest\obj\Debug\netcoreapp3.1\XTramileTest.genruntimeconfig.cache
