@@ -1,42 +1,42 @@
 ﻿@using XTramileTest.Dto
 
-@model WeatherDto
+@model WeatherMappingDto
 
 
 <br /> <h1>Weather Information</h1>
 <div class="row">
     <div class="3">Location</div>
-    <div class="9"></div>
+    <div class="9">@Model.Location</div>
 </div>
 
 <div class="row">
     <div class="3">Time</div>
-    <div class="9"></div>
+    <div class="9">@Model.Time</div>
 </div>
 
 <div class="row">
     <div class="3">Wind</div>
-    <div class="9"></div>
+    <div class="9">@Model.Wind</div>
 </div>
 
 <div class="row">
     <div class="3">Visibility</div>
-    <div class="9"></div>
+    <div class="9">@Model.Visibility</div>
 </div>
 
 <div class="row">
     <div class="3">Sky Conditions</div>
-    <div class="9"></div>
+    <div class="9">@Model.SkyCondition</div>
 </div>
 
 <div class="row">
     <div class="3">Temperatur C</div>
-    <div class="9"></div>
+    <div class="9">@Model.TemperaturC</div>
 </div>
 
 <div class="row">
     <div class="3">Temperatur F</div>
-    <div class="9"></div>
+    <div class="9">@Model.TemperaturC</div>
 </div>
 
 <div class="row">
@@ -46,10 +46,10 @@
 
 <div class="row">
     <div class="3">Relative Humidity</div>
-    <div class="9"></div>
+    <div class="9">@Model.RelativeHumidity</div>
 </div>
 
 <div class="row">
     <div class="3">Pressure</div>
-    <div class="9"></div>
+    <div class="9">@Model.Pressure</div>
 </div>

@@ -1,33 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\a\\XTramileTest\\XTramileTest\\XTramileTest.csproj": {}
+    "D:\\Proyek Github\\new\\XTramileTest\\XTramileTest\\XTramileTest.csproj": {}
   },
   "projects": {
-    "D:\\a\\XTramileTest\\XTramileTest\\XTramileTest.csproj": {
+    "D:\\Proyek Github\\new\\XTramileTest\\XTramileTest\\XTramileTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\a\\XTramileTest\\XTramileTest\\XTramileTest.csproj",
+        "projectUniqueName": "D:\\Proyek Github\\new\\XTramileTest\\XTramileTest\\XTramileTest.csproj",
         "projectName": "XTramileTest",
-        "projectPath": "D:\\a\\XTramileTest\\XTramileTest\\XTramileTest.csproj",
-        "packagesPath": "C:\\Users\\NB100\\.nuget\\packages\\",
-        "outputPath": "D:\\a\\XTramileTest\\XTramileTest\\obj\\",
+        "projectPath": "D:\\Proyek Github\\new\\XTramileTest\\XTramileTest\\XTramileTest.csproj",
+        "packagesPath": "C:\\Users\\itd16.P2\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyek Github\\new\\XTramileTest\\XTramileTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\NB100\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\itd16.P2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.grapecity.com/nuget": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -39,32 +42,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            }
-          },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
