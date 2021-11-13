@@ -1,0 +1,14 @@
+﻿@using XTramileTest.Model
+
+@model List<City>
+
+<select id="citi" onchange="getCuaca()">
+    <option></option>
+    @{
+        foreach (var item in Model)
+        {
+            <option value="@item.CityName">@item.CityName</option>
+        }
+    }
+
+</select>

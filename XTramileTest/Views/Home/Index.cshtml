@@ -1,0 +1,46 @@
+﻿@using XTramileTest.Model
+@model List<Country>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="row">
+    <div class="col-2">
+        Country
+    </div>
+    <div class="col-10">
+        <select id="countri" onchange="getCity()">
+            <option></option>
+            @{
+                foreach (var item in Model)
+                {
+                    <option value="@item.CountryID">@item.CountryName</option>
+                }
+            }
+        </select>
+    </div>
+</div>
+<br />
+
+<div class="row">
+    <div class="col-2">
+        City
+    </div>
+    <div class="col-10">
+        <div id="citychange">
+
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div id="fillweather">
+
+        </div>
+    </div>
+</div>
+
+
+@Html.Partial("_js.cshtml")

@@ -1,0 +1,28 @@
+﻿<script>
+    function getCity() {
+        var d = $("#countri").val();
+
+        $url = "Home/AjaxGetCiti?id=" + d;
+
+        $.ajax({
+            url: $url,
+            type: "GET",
+            success: function (response) {
+                $("#citychange").html(response);
+            }
+        });
+    }
+
+    function getCuaca() {
+        var d = $("#citi").val();
+        $url = "Home/AjaxGetWeather?citi=" + d;
+
+        $.ajax({
+            url: $url,
+            type: "GET",
+            success: function (response) {
+                $("#fillweather").html(response);
+            }
+        });
+    }
+</script>
